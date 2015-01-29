@@ -152,7 +152,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -170,7 +169,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\Package.ico" />
-    <Resource Include="Screenshot.PNG" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="RelaterWindow.xaml">
