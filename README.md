@@ -6,7 +6,7 @@ It then gives you a little tool window, that you can use to quickly switch betwe
 
 BEHOLD THE GLORY:
 
-![The tool window](Screenshot.png)
+![The tool window](screenshot.png)
 
 Look at that nice "Get related files" button? I know it looks cool, but the idea is to get rid of that.
 
