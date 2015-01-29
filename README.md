@@ -13,7 +13,7 @@ Look at that nice "Get related files" button? I know it looks cool, but the idea
 This project aims to find out if it is useful to navigate using your history of navigating. It is my first Visual Studio Extension, and the version you are looking at is created in two hours. So the code is like the worst you have ever seen.
 
 ## How to test it
-You need the [Visual Studio 2013 SDK](http://www.microsoft.com/en-us/download/details.aspx?id=40758). Then open the project, it should debug it, and it should start a special Visual Studio process.
+You need the [Visual Studio 2013 SDK](http://www.microsoft.com/en-us/download/details.aspx?id=40758). Then open the project, then debug it, and it should start a special Visual Studio process.
 If you then want to install it in your real Visual Studio, you can use the output of the Debug folder.
 If you don't know what I mean, and how to do this - then this project is properbly in a too early stage for you to use (sorry).
 
